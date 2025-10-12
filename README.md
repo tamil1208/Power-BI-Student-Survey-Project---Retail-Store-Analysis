@@ -1,8 +1,7 @@
 ## 🛍️ Power BI Student Survey Project – Retail Store Analysis ##
 ## 📘 Project Overview ##
 
-This project analyzes the spending habits of students across various retail stores in the United States. Using a student survey dataset, it explores different purchase categories such as Video Games, Indoor Games, Toys, Books, and Gadgets.
-The main goal is to extract meaningful insights and design interactive Power BI dashboards that help understand retail spending patterns among students.
+This project analyzes the spending habits of students across various retail stores in the United States. Using a student survey dataset, it explores different purchase categories such as Video Games, Indoor Games, Toys, Books, and Gadgets.The main goal is to extract meaningful insights and design interactive Power BI dashboards that help understand retail spending patterns among students.
 
 ## 🏢 Industry Type
 
